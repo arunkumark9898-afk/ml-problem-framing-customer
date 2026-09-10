@@ -1,0 +1,5 @@
+## Suggested implementation note for the submission form
+
+Completed the ML problem-framing memo, responsible data card, baseline Logistic Regression notebook, and risk register for customer churn. The solution defines the prediction target, unit of observation, non-ML baseline, error costs, privacy/leakage risks, human-review/abstention conditions, monitoring, and rollback plan.
+
+The repository contains only a synthetic sample for demonstration; no real customer records are included.
